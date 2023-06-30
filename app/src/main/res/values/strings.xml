@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UserStory</string>
+    <string name="logo_aplikasi_user_story">logo aplikasi user story</string>
+    <string name="story">Story</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_here">Register Here</string>
+    <string name="show_password">Show Password</string>
+    <string name="register">Register</string>
+    <string name="login_here">Already have an account? Login Here</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="add_story">add story</string>
+    <string name="capture_image">capture image</string>
+    <string name="switch_camera">switch camera</string>
+    <string name="camerax">CameraX</string>
+    <string name="gallery">Gallery</string>
+    <string name="photo">photo</string>
+    <string name="story_desc">Enter the story description here</string>
+    <string name="upload">Upload</string>
+    <string name="name">user name</string>
+    <string name="user_story_description">user story description</string>
+    <string name="post_by">Posted By:</string>
+    <string name="log_out">Log Out</string>
+    <string name="user_story_detail">user story detail</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="location">Location</string>
+    <string name="retry">Coba lagi</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
